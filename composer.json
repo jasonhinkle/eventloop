@@ -1,0 +1,14 @@
+{
+	"name": "jasonhinkle/EventLoop",
+	"description": "Simple event loop for PHP",
+	"keywords": ["php", "eventloop", "event", "loop"],
+	"version": "0.1.0",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"classmap": [
+			"src"
+		]
+	}
+}
